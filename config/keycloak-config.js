@@ -10,7 +10,6 @@ var keycloakConfig = {
     realm: 'Demo-Realm',
     credentials:{
         secret: '0be82b2f-a028-48dc-b47a-cf80f5c4a3b5'
-
     }
 }
 
